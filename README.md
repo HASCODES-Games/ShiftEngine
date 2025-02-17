@@ -1,4 +1,4 @@
-# Godot Engine
+# Shift Engine
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -6,30 +6,25 @@
   </a>
 </p>
 
-## 2D and 3D cross-platform game engine
+## It's time to make stuff.
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
-platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html).
+**[Shift Engine](https://godotengine.org) is the perfect Godot fork that 
+is ready for the future of game development.** Shift provides all of the
+[common tools that Godot has built in](https://godotengine.org/features), along
+with many new tools. Shift is working hard to take what Godot didn't do so well and
+try again, this time with the right tools for the job. Just like Godot, Shift games can
+be exported to MacOS, Linux, Windows, Android and IOS, MetaHorizonOS, and many more.
 
-## Free, open source and community-driven
+## Your games should always be _your_ games.
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
-No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
-community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
+Just like Godot, Shift is free and open source. Forks are 100% permitted, you get the rights
+to your games with all the royalties, no memberships, no nothing. Shift is and will always be
+100% free. The engine also engages with the community, always completely open to suggestions and
+ideas. Shift is nothing more than a tool to help us developers make stuff.
 
-Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
-for several years as an in-house engine, used to publish several work-for-hire
-titles.
+Shift is maintained by indie game developer HASCODES who works on Shift for fun. HASCODES is enthusiastic
+for the engine, and loves hosting events such as game jams, and so much more. HASCODES is as excited as ever
+to get Shift Engine going.
 
 ![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
